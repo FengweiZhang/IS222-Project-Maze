@@ -1,0 +1,2 @@
+../Core/Src/key.c:7:6:KEY1_EXIT_Callback	8	static
+../Core/Src/key.c:42:6:KEY2_EXIT_Callback	16	static

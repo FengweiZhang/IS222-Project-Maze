@@ -1,0 +1,15 @@
+../Core/Src/flash.c:13:6:SPI_FLASH_SectorErase	16	static
+../Core/Src/flash.c:40:6:SPI_FLASH_BulkErase	8	static
+../Core/Src/flash.c:64:6:SPI_FLASH_PageWrite	24	static
+../Core/Src/flash.c:109:6:SPI_FLASH_BufferWrite	32	static
+../Core/Src/flash.c:203:6:SPI_FLASH_BufferRead	24	static
+../Core/Src/flash.c:236:10:SPI_FLASH_ReadID	24	static
+../Core/Src/flash.c:268:10:SPI_FLASH_ReadDeviceID	16	static
+../Core/Src/flash.c:301:6:SPI_FLASH_StartReadSequence	16	static
+../Core/Src/flash.c:324:9:SPI_FLASH_ReadByte	24	static
+../Core/Src/flash.c:340:9:SPI_FLASH_SendByte	32	static
+../Core/Src/flash.c:360:6:SPI_FLASH_WriteEnable	8	static
+../Core/Src/flash.c:380:6:SPI_FLASH_WaitForWriteEnd	16	static
+../Core/Src/flash.c:404:6:SPI_Flash_PowerDown	8	static
+../Core/Src/flash.c:417:6:SPI_Flash_WAKEUP	8	static
+../Core/Src/flash.c:435:18:SPI_TIMEOUT_UserCallback	16	static

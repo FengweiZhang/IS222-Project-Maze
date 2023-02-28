@@ -1,0 +1,15 @@
+../Core/Src/touch.c:106:13:XPT2046_DelayUS	24	static
+../Core/Src/touch.c:131:13:XPT2046_WriteCMD	24	static
+../Core/Src/touch.c:161:17:XPT2046_ReadCMD	16	static
+../Core/Src/touch.c:197:17:XPT2046_ReadAdc	16	static
+../Core/Src/touch.c:212:13:XPT2046_ReadAdc_XY	24	static
+../Core/Src/touch.c:347:16:XPT2046_ReadAdc_Smooth_XY	80	static
+../Core/Src/touch.c:431:16:XPT2046_Calculate_CalibrationFactor	32	static
+../Core/Src/touch.c:488:13:ILI9341_DrawCross	16	static
+../Core/Src/touch.c:504:9:XPT2046_Touch_Calibrate	240	static
+../Core/Src/touch.c:661:6:Calibrate_or_Get_TouchParaWithFlash	24	static
+../Core/Src/touch.c:738:9:XPT2046_Get_TouchedPoint	40	static
+../Core/Src/touch.c:768:9:XPT2046_TouchDetect	16	static
+../Core/Src/touch.c:847:6:XPT2046_TouchDown	16	static
+../Core/Src/touch.c:869:6:XPT2046_TouchUp	16	static
+../Core/Src/touch.c:890:6:XPT2046_TouchEvenHandler	8	static
